@@ -41,9 +41,9 @@ export default function About() {
             />
             <div style={{ display: 'flex', flexDirection: 'column', gap: 16 }}>
               {[
-                "I'm a Full-Stack, Backend & Software Engineer based in Nairobi, Kenya. I co-founded Medithrex Medical Solutions and have shipped production systems across healthcare, mobility, productivity, and nonprofit verticals.",
-                "My engineering philosophy: build things that actually work in the environments they're deployed in. For Africa, that means M-Pesa integrations, offline-first mobile architecture, SMS fallbacks, and low-bandwidth performance.",
-                "5+ years of freelance and startup engineering, currently open to full-time remote roles and strategic collaborations globally.",
+                "I'm a Backend Software Engineer based in Nairobi, Kenya, specializing in cloud-native systems, APIs, distributed services, and AI-enabled applications. I co-founded Medithrex Medical Solutions and have shipped production systems across healthcare, mobility, productivity, and nonprofit verticals.",
+                "My work spans RESTful API architecture, authentication systems, PostgreSQL optimization, cloud infrastructure, and production deployments. I build reliable software that performs in real-world environments, from low-bandwidth African markets to enterprise applications.",
+                "4+ years of freelance and startup engineering, currently open to full-time remote roles and strategic collaborations globally.",
               ].map((text, i) => (
                 <p
                   key={i}

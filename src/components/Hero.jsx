@@ -88,7 +88,7 @@ export default function Hero() {
                 animation: 'pulseGold 2s ease infinite',
               }}
             />
-            Full-Stack Engineer · Backend Engineer · Software Engineer · AI Builder · Co-Founder
+            Backend Software Engineer | Cloud-Native Systems Developer | Distributed Systems
           </div>
 
           {/* Name */}
@@ -129,9 +129,9 @@ export default function Hero() {
               marginBottom: 40,
             }}
           >
-            I architect production-grade SaaS platforms, AI-integrated backends,
-            and mobile-first experiences — built for the realities of African
-            markets and the ambitions of global clients.
+            I design and build scalable, secure, cloud-native applications,
+            RESTful APIs, and distributed backend services that power AI-enabled
+            and enterprise products.
           </p>
 
           {/* CTAs */}

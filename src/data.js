@@ -22,13 +22,13 @@ export const CONSOLE_LINES = [
   { label: 'LOCATION',   value: 'Nairobi, Kenya 🇰🇪',        color: '#F59E0B' },
   { label: 'REMOTE',     value: 'US / EU / Global ✓',       color: '#64748B' },
   { label: 'STACK',      value: 'Full-Stack + Backend + AI', color: '#F59E0B' },
-  { label: 'EXPERIENCE', value: '5+ Years',                  color: '#F59E0B' },
+  { label: 'EXPERIENCE', value: '4+ Years',                  color: '#F59E0B' },
   { label: 'FOCUS',      value: 'African markets',           color: '#64748B' },
 ];
 
 export const HERO_STATS = [
   ['7+', 'Apps Shipped'],
-  ['5+', 'Years'],
+  ['4+', 'Years'],
   ['10+', 'Tech Stack'],
 ];
 
@@ -206,14 +206,14 @@ export const SERVICES = [
 
 export const ABOUT_JSON_ROWS = [
   ['name',        '"Fidel Chimwani"'],
-  ['role',        '"Full-Stack · Backend · Software Engineer"'],
+  ['role',        '"Backend Software Engineer"'],
   ['company',     '"Medithrex Medical Solutions"'],
   ['degree',      '"BSc Software Engineering"'],
   ['university',  '"Zetech University, Nairobi"'],
   ['email',       '"fidelchimwani@gmail.com"'],
   ['github',      '"github.com/Cajuki"'],
   ['phone',       '"+254 790 080 903"'],
-  ['experience',  '"5+ Years"'],
+  ['experience',  '"4+ Years"'],
   ['openToWork',  'true'],
   ['remoteReady', 'true'],
 ];
