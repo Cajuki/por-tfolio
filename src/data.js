@@ -93,6 +93,16 @@ export const PROJECTS = [
     github: 'https://github.com/Cajuki',
     live: '#',
   },
+  {
+    id: '07',
+    title: 'TwinMind',
+    category: 'AI · Meeting Copilot',
+    desc: 'Real-time AI meeting copilot that listens to live conversations, transcribes and understands context, then surfaces three timely suggestions—questions, facts, clarifications, answers, or follow-up actions—to keep discussions focused and productive.',
+    tags: ['React', 'AI', 'Speech-to-Text', 'Context-Aware', 'Live Suggestions'],
+    accent: '#14B8A6',
+    github: 'https://github.com/Cajuki',
+    live: 'https://twin-mind-tan.vercel.app/',
+  },
 ];
 
 export const SKILL_CATEGORIES = [
