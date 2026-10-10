@@ -18,12 +18,12 @@ export const NAV_LINKS = [
 ];
 
 export const CONSOLE_LINES = [
-  { label: 'STATUS',     value: 'Available for hire',       color: '#22C55E' },
-  { label: 'LOCATION',   value: 'Nairobi, Kenya 🇰🇪',        color: '#F59E0B' },
-  { label: 'REMOTE',     value: 'US / EU / Global ✓',       color: '#64748B' },
-  { label: 'STACK',      value: 'Full-Stack + Backend + AI', color: '#F59E0B' },
-  { label: 'EXPERIENCE', value: '4+ Years',                  color: '#F59E0B' },
-  { label: 'FOCUS',      value: 'African markets',           color: '#64748B' },
+  { label: 'STATUS',     value: 'Available for hire',       color: '#10B981' },
+  { label: 'LOCATION',   value: 'Nairobi, Kenya 🇰🇪',        color: '#F4E7C5' },
+  { label: 'REMOTE',     value: 'US / EU / Global ✓',       color: '#AAB4AF' },
+  { label: 'STACK',      value: 'Full-Stack + Backend + AI', color: '#F4E7C5' },
+  { label: 'EXPERIENCE', value: '4+ Years',                  color: '#F4E7C5' },
+  { label: 'FOCUS',      value: 'African markets',           color: '#AAB4AF' },
 ];
 
 export const HERO_STATS = [
@@ -39,7 +39,7 @@ export const PROJECTS = [
     category: 'E-Commerce · Healthtech',
     desc: 'Kenyan medical & laboratory equipment platform. M-Pesa Daraja payments, Africa\'s Talking SMS, strict black/yellow brand identity, and a 20-feature roadmap.',
     tags: ['React', 'Node.js', 'PostgreSQL', 'M-Pesa', 'Neon DB', 'REST API'],
-    accent: '#F59E0B',
+    accent: '#F4E7C5',
     github: 'https://github.com/Cajuki',
     live: 'https://medithrex.site',
   },
@@ -69,7 +69,7 @@ export const PROJECTS = [
     category: 'Marketplace · Automotive',
     desc: 'Full-stack Kenyan vehicle listing marketplace with advanced search, seller auth, and server-side pagination. Architecture supports 10,000+ concurrent listings.',
     tags: ['React', 'Tailwind', 'Node.js', 'PostgreSQL', 'JWT'],
-    accent: '#22C55E',
+    accent: '#10B981',
     github: 'https://github.com/Cajuki',
     live: '#',
   },

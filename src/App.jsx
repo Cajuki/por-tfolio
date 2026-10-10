@@ -10,7 +10,13 @@ import Footer     from './components/Footer.jsx';
 
 export default function App() {
   return (
-    <div style={{ background: '#0A0F1E', minHeight: '100vh' }}>
+    <div
+      style={{
+        background:
+          'radial-gradient(circle at top left, rgba(16,185,129,0.14), transparent 30%), linear-gradient(180deg, #171B1E 0%, #1A1E22 100%)',
+        minHeight: '100vh',
+      }}
+    >
       <Nav />
       <main>
         <Hero />

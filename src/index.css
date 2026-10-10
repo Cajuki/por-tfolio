@@ -11,12 +11,16 @@ html {
 }
 
 body {
-  background: #0A0F1E;
-  color: #F8FAFC;
+  background: radial-gradient(circle at top left, rgba(16, 185, 129, 0.12), transparent 28%), #171B1E;
+  color: #F7F3EE;
   font-family: 'Space Grotesk', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   overflow-x: hidden;
+}
+
+#root {
+  min-height: 100vh;
 }
 
 /* ── Custom Scrollbar ── */
@@ -24,20 +28,20 @@ body {
   width: 4px;
 }
 ::-webkit-scrollbar-track {
-  background: #0A0F1E;
+  background: #171B1E;
 }
 ::-webkit-scrollbar-thumb {
-  background: #F59E0B;
+  background: #10B981;
   border-radius: 2px;
 }
 ::-webkit-scrollbar-thumb:hover {
-  background: #D97706;
+  background: #0C7C5C;
 }
 
 /* ── Selection ── */
 ::selection {
-  background: rgba(245, 158, 11, 0.3);
-  color: #F8FAFC;
+  background: rgba(16, 185, 129, 0.28);
+  color: #F7F3EE;
 }
 
 /* ── Keyframe Animations ── */

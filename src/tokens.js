@@ -1,17 +1,26 @@
 // ── Design Tokens ──────────────────────────────────────────────────────────
-// Terminal Noir palette: navy-charcoal bg + amber-gold accent
+// Graphite + champagne + emerald palette
 // Typefaces: Space Grotesk (display) · JetBrains Mono (code/labels)
 
 export const T = {
-  bg:      '#0A0F1E',   // deep navy-charcoal background
-  surface: '#111827',   // slightly lighter surface (ticker, nav)
-  card:    '#141D2F',   // card background
-  border:  '#1E293B',   // default border
-  dim:     '#1E293B',   // divider / dim border alias
-  gold:    '#F59E0B',   // amber-gold — primary accent
-  goldLo:  '#78350F',   // deep gold for subtle tints
-  white:   '#F8FAFC',   // near-white body text
-  muted:   '#64748B',   // muted / secondary text
+  graphite:     '#171B1E',
+  graphiteSoft: '#1E2327',
+  graphiteCard: '#232A2F',
+  bg:           '#171B1E',
+  surface:      '#1E2327',
+  card:         '#232A2F',
+  border:       '#2D393F',
+  dim:          '#2D393F',
+  champagne:    '#F4E7C5',
+  champagneDeep:'#D9CBB0',
+  emerald:      '#10B981',
+  emeraldDeep:  '#0C7C5C',
+  gold:         '#F4E7C5',
+  goldLo:       '#9C7A3D',
+  green:        '#10B981',
+  greenDeep:    '#0C7C5C',
+  white:        '#F7F3EE',
+  muted:        '#AAB4AF',
 };
 
 export default T;

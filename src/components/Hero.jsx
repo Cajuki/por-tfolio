@@ -83,7 +83,7 @@ export default function Hero() {
                 width: 8,
                 height: 8,
                 borderRadius: '50%',
-                background: '#22C55E',
+                background: '#10B981',
                 flexShrink: 0,
                 animation: 'pulseGold 2s ease infinite',
               }}
@@ -223,7 +223,7 @@ export default function Hero() {
               }}
             >
               <div style={{ display: 'flex', gap: 6 }}>
-                {['#EF4444', '#F59E0B', '#22C55E'].map((c) => (
+                {['#C7B9A7', '#F4E7C5', '#10B981'].map((c) => (
                   <div
                     key={c}
                     style={{ width: 10, height: 10, borderRadius: '50%', background: c }}
